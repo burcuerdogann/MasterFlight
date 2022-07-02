@@ -2,6 +2,6 @@
 
 Android Development / Java Tutorial - Lesson 21
 
-Application
+Game Development
 
-LibGDX | 
+LibGDX 
