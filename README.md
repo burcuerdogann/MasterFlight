@@ -2,6 +2,6 @@
 
 Android Development / Java Tutorial - Lesson 21
 
-Game Development
+Game Development (Java)
 
 LibGDX | SpriteBatch | ShapeRenderer | Texture
