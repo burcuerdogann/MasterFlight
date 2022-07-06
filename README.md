@@ -2,6 +2,6 @@
 
 Android Development / Java Tutorial - Lesson 21
 
-Game Development (Java)
+MasterFlight Android Game (Java)
 
 LibGDX | SpriteBatch | ShapeRenderer | Texture
